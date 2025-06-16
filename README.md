@@ -1,5 +1,5 @@
-![image alt](https://github.com/user-attachments/assets/fc908a47-0645-47b0-a479-97a3ca0fba72)
 # Risk Assessment: Analysis for best Aicraft Acquisition.
+![image alt](https://github.com/user-attachments/assets/fc908a47-0645-47b0-a479-97a3ca0fba72)
 ## Introduction
 For this analysis, we will use the dataset  **"Aviation Accident Database & Synopses, up to 2023"** from Kaggle, provided by the National Transportation Safety Board (NTSB). This dataset contains comprehensive information about aviation incidents.
 
@@ -24,15 +24,15 @@ For the purpose of this analysis we will take the following steps:
 - Data Analysis
 - Recommendations
 - Summary
-### Data cleaning.
-In this part we will:
-- Create a copy of the DataFrame.
-- drop columns.
-- modify data type in entries and set Index.
-- fill rows with missing values.
 
-these steps will ensure that everything run smoothly later during our Analysis.
-Some other data clearing process will also be done later.
+### **Data Cleaning: Ensuring Accurate and Reliable Analysis**  
+In this section, we focus on refining the dataset to maintain precision and consistency:  
+- **DataFrame Duplication** – Creating a structured copy for controlled modifications.  
+- **Column Filtering** – Removing irrelevant fields to streamline analysis.  
+- **Data Type Optimization** – Standardizing entry formats and defining an index for efficient data processing.  
+- **Handling Missing Values** – Filling incomplete records to preserve dataset integrity.  
+
+These steps ensure a **clean, well-structured dataset**, allowing for accurate aviation risk assessment and meaningful insights.
 ## Data Understanding:
 This section ensures that the data is properly structured and prepared for analysis, laying a solid foundation for meaningful insights. It sets the framework for the upcoming exploration.
 Below are key questions that the new aviation division may seek to answer. They will be addressed in the notebook.
