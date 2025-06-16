@@ -45,13 +45,13 @@ Below are key questions that the new aviation division may seek to answer. They 
 - How well are passengers protected in the event of an aircraft crash For top Aircraft Manufacturers?
 
 ## Data Analysis
-In this part: 
-- Visualization 
-- Correlational Analysis 
-- Pattern Recognition 
-- Trend Identification 
-- Insights and Findings 
-- risk assessment
+In this section, we apply data-driven methodologies to support informed business decisions:  
+- **Data Visualization** – Clear graphical representations to highlight key trends.  
+- **Correlational Analysis** – Identifying relationships between critical aviation factors.  
+- **Pattern Recognition** – Detecting recurring themes to enhance risk mitigation strategies.  
+- **Trend Identification** – Assessing historical data to forecast future outcomes.  
+- **Actionable Insights** – Extracting meaningful findings to optimize operational efficiency.  
+- **Risk Assessment** – Evaluating aviation safety metrics to minimize potential liabilities.  
 ### Which aircraft makes have suffered the fewest and the most accidents?
 To address this question a bar chart of the top 5 Aircraft Makes that have suffered the most accidents and the 5 that have suffered the fewest will be provided.
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/63e87f67892f84f2a77bcebb9b12aadfa7f5ab19/images/image1.png)
@@ -89,7 +89,7 @@ For example, personal flights may have the highest accident count simply because
 The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
 ### For which flight phases have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/347e465630da0f06d9dd6c47ad1fcfe455520fd2/images/image4.png)
-there has been the most accident during the landing phase.
+result: there has been the most accident during the landing phase.
 ### For which weather condition have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/626dff4e3dcbecb4af65eee2ea88233d3cc6311e/images/image5.png)
 
