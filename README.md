@@ -79,15 +79,24 @@ The frequency of Aircraft accident for personal purpose of flight may prompt the
 ### For which flight phases have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/347e465630da0f06d9dd6c47ad1fcfe455520fd2/images/image4.png)
 ### For which weather condition have accidents been most frequent?
-![image alt]()
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/626dff4e3dcbecb4af65eee2ea88233d3cc6311e/images/image5.png)
 Visual Meteorological Conditions(*VMC*):Weather conditions that allow pilots to fly using visual references rather than relying on instruments.
 Instrument Meteorological Conditions(*IMC):This usually indicates that the weather condition was not recorded or is uncertain in aviation reports.
 
 Analysis: 
 Most accidents happen during favorable weather conditions.
 Regardless, Measures should be taken to avoid accidents that are related to bad weather condition as they account for around 8 percent.
+### How resistant are certain aircrafts to accidents for Top Manufacrtures ?
 
- 
+Top Aircraft Manufacturers:
+
+With a market valuation of over \$114.97 billion as of 2024, Airbus dominates the aircraft manufacturing industry, closely followed by Boeing at \$113.82 billion. Other notable players include Lockheed Martin (\$110.98 billion), Hindustan Aeronautics (\$42.80 billion), Textron (\$16.35 billion), Dassault Aviation (\$14.18 billion), Bombardier (\$6.26 billion), Embraer (\$4.82 billion), Joby Aviation (\$3.51 billion), and Korea Aerospace Industries (\$3.45 billion). These organizations produce both military and commercial aircraft and provide necessary services, including component manufacturing, maintenance, and repairs. (source:https://straitsresearch.com/statistic/largest-aircraft-manufacturers-globally)
+
+
+> ### Why are we using the top aircraft manufacturers for this analysis?
+
+ >The top aircraft manufacturers are highly recognized and trusted in the aviation industry. Their market valuation serves as proof of their reliability and effectiveness. For instance, Airbus and Boeing are widely regarded as industry leaders in safety and innovation.
+![image alt]()
 
 
 
