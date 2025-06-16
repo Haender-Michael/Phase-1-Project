@@ -58,11 +58,17 @@ The new aviation division would want this information to :
 
 - Identify high-risk regions 
 #### The top 4 countries with the most aviation accidents will be represented in the plot below.
-![image alt]()
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/7ce2a5f003b24d7c300af9d93cf7fc301e4dea5a/images/image2.png)
+### Analysis:
+The head of the new aviation division may need to reconsider or conduct further research before initiating airplane operations in countries such as Canada and Brazil due to the increase in aviation accident frequency observed between 2020 and 2022.
+
+However, since the dataset is not up to date,it's not safe to assume that it is still the case for years after 2022.
+
+Additional analysis should be done, as significant changes in aviation trends may occur in the years after 2022.
 
 
 Only by comparing accident rates  instead of frequency can we determine which aircraft make could be considered the most reliable.
-
+###For which flight purposes have accidents been most frequent?
 
 
 
