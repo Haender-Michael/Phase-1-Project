@@ -78,8 +78,10 @@ For example, personal flights may have the highest accident count simply because
 The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
 ### For which flight phases have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/347e465630da0f06d9dd6c47ad1fcfe455520fd2/images/image4.png)
+there has been the most accident during the landing phase.
 ### For which weather condition have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/626dff4e3dcbecb4af65eee2ea88233d3cc6311e/images/image5.png)
+
 Visual Meteorological Conditions(*VMC*):Weather conditions that allow pilots to fly using visual references rather than relying on instruments.
 Instrument Meteorological Conditions(*IMC):This usually indicates that the weather condition was not recorded or is uncertain in aviation reports.
 
@@ -96,12 +98,14 @@ With a market valuation of over \$114.97 billion as of 2024, Airbus dominates th
 > ### Why are we using the top aircraft manufacturers for this analysis?
 
  >The top aircraft manufacturers are highly recognized and trusted in the aviation industry. Their market valuation serves as proof of their reliability and effectiveness. For instance, Airbus and Boeing are widely regarded as industry leaders in safety and innovation.
+
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/2926a6da1d279872da0597eb30535779f8466650/images/image6.png)
 ### How well are passengers protected in the event of an aircraft crash For top Aircraft Manufacturers?
 ![image](https://github.com/Haender-Michael/Phase-1-Project/blob/d0562f935c431ed6e5351691ec2a245dadc86ad0/images/image7.png)
 #### Result:
 airbus a330-243 and boeing 737-800 have the lowest amount of injuries.
-##Summary
+## 
+Summary
 
 > For this analysis, we used a dataset from Kaggle: **"Aviation Accident Database & Synopses, up to 2023."**  
 After cleaning, we aimed to address key questions that the head of the aviation division is likely to have.  
