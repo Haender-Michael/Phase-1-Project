@@ -96,7 +96,48 @@ With a market valuation of over \$114.97 billion as of 2024, Airbus dominates th
 > ### Why are we using the top aircraft manufacturers for this analysis?
 
  >The top aircraft manufacturers are highly recognized and trusted in the aviation industry. Their market valuation serves as proof of their reliability and effectiveness. For instance, Airbus and Boeing are widely regarded as industry leaders in safety and innovation.
-![image alt]()
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/2926a6da1d279872da0597eb30535779f8466650/images/image6.png)
+### How well are passengers protected in the event of an aircraft crash For top Aircraft Manufacturers?
+![image]()
+#### Result:
+airbus a330-243 and boeing 737-800 have the lowest amount of injuries.
+##Summary
+
+> For this analysis, we used a dataset from Kaggle: **"Aviation Accident Database & Synopses, up to 2023."**  
+After cleaning, we aimed to address key questions that the head of the aviation division is likely to have.  
+> For each analysis, we found the following information:  
+> - The aircraft that has sustained the fewest accidents is not necessarily the safest.  
+> - Accident frequency increased from 2020 to 2022 in both Brazil and Canada.  
+> - there have been far more accidents for personal flight purposes than for the others, but we shouldn't assume that this correlates directly with accident rates. Instead, the head of the aviation division should implement specific safety measures to ensure smooth operations for these flights.
+> - There have been far more accidents for landing than the other phase of flight.
+> - Most accident happen during favorable weather conditions. Regardless, Measures should be taken to avoid accidents that are related to bad weather condition as they account for around 8 percent.
+> - Airbus a330-243 and boeing 737-800 have the lowest destroyed rate.
+> -  Airbus a330-243 and boeing 737-800 also the lowest amount of injuries, making them among the safest among the top aircrafts.
+## Recommendations 
+
+The head of the new aviation division may need to reconsider or conduct further research before initiating airplane operations in countries such as Canada and Brazil due to the increase in aviation accident frequency observed between 2020 and 2022.
+
+The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes in the Aviation accident dataset, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
+
+Our DataFrame account most accidents for landing. Specific Measures towards assuring proper landing will have to be taken by the head of the new aviation division. Also the head of the new aviation division should take approximate amount of measures for other most recurrent phase of flight in the Aiation accident dataset.
+
+Most accidents happen during favorable weather conditions. Regardless, the head of aviation division will need to take Measures to avoid accidents that are related to bad weather conditions as they account for around 8 percent.
+
+Finally Airbus a330-243 and boeing 737-800 are strongly recommended as they are from top manufacturerers. Additionally, among the Aircraft made by top manufacturers, they  have the lowest destroyed rate,and the lowest amount of injuries, making them  very reliable Aircrafts.
+
+NB :The dataset is not up to date. Analysis of recent years is recommended. For this purpose and more, contact information of the Analyst who worked on this porject is provided.
+## Contact Information
+- First Name: Haender Michael
+
+- Last Name: Jean Louis
+
+- Email: michaelhaenderjeanlouis@gmail.com
+
+- Phone Number: +509 41 75 0264
+
+- LinkedIn: https://www.linkedin.com/in/michael-haender-jean-louis-4b7320316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+For further inquiries, feedback, or collaboration on this analysis, feel free to reach out. I welcome discussions and any contract to work with the head of the new Aviation division
 
 
 
