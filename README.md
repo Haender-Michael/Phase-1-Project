@@ -98,7 +98,7 @@ With a market valuation of over \$114.97 billion as of 2024, Airbus dominates th
  >The top aircraft manufacturers are highly recognized and trusted in the aviation industry. Their market valuation serves as proof of their reliability and effectiveness. For instance, Airbus and Boeing are widely regarded as industry leaders in safety and innovation.
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/2926a6da1d279872da0597eb30535779f8466650/images/image6.png)
 ### How well are passengers protected in the event of an aircraft crash For top Aircraft Manufacturers?
-![image]()
+![image](https://github.com/Haender-Michael/Phase-1-Project/blob/d0562f935c431ed6e5351691ec2a245dadc86ad0/images/image7.png)
 #### Result:
 airbus a330-243 and boeing 737-800 have the lowest amount of injuries.
 ##Summary
