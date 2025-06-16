@@ -43,4 +43,26 @@ In this part:
 - risk assessment
 ### Which aircraft makes have suffered the fewest and the most accidents?
 To address this question a bar chart of the top 5 Aircraft Makes that have suffered the most accidents and the 5 that have suffered the fewest will be provided.
-![image alt](https://github.com/user-attachments/assets/fc908a47-0645-47b0-a479-97a3ca0fba72)
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/63e87f67892f84f2a77bcebb9b12aadfa7f5ab19/images/image1.png)
+#### Analysis :
+Now, we might mistakenly believe that the least recurrent aircraft are the safest, but that's not necessarily true. The fact that these aircraft have fewer recorded accidents could simply mean that they have operated fewer flights, reducing their chances of incidents rather than proving their reliability.
+
+For example, if the aircraft make Cessna has the most accidents, it might simply indicate that it has operated the most flights. However, when analyzing accident rates, it could actually be among the most reliable aircraft in terms of avoiding accidents.
+### How has accident frequency evolved over the years for the country with the highest number of accidents?
+The new aviation division would want this information to :
+- Evaluate safety trends --> Assess whether accident rates have decreased due to improved regulations and technology.
+
+- Improve fleet management --> Make informed decisions about aircraft acquisition based on reliability across regions.
+
+- Support policy decisions --> Use data-driven insights to enhance aviation safety measures and operational guidelines.
+
+- Identify high-risk regions 
+#### The top 4 countries with the most aviation accidents will be represented in the plot below.
+![image alt]()
+
+
+Only by comparing accident rates  instead of frequency can we determine which aircraft make could be considered the most reliable.
+
+
+
+
