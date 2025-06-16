@@ -75,10 +75,18 @@ N.B: This graph does not show which purpose of flight is most likely to cause an
 
 For example, personal flights may have the highest accident count simply because they account for more aircraft operations overall.
 
-
 The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
 ### For which flight phases have accidents been most frequent?
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/347e465630da0f06d9dd6c47ad1fcfe455520fd2/images/image4.png)
+### For which weather condition have accidents been most frequent?
 ![image alt]()
+Visual Meteorological Conditions(*VMC*):Weather conditions that allow pilots to fly using visual references rather than relying on instruments.
+Instrument Meteorological Conditions(*IMC):This usually indicates that the weather condition was not recorded or is uncertain in aviation reports.
+
+Analysis: 
+Most accidents happen during favorable weather conditions.
+Regardless, Measures should be taken to avoid accidents that are related to bad weather condition as they account for around 8 percent.
+
  
 
 
