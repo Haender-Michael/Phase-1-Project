@@ -1,5 +1,4 @@
 ![image alt](https://github.com/user-attachments/assets/fc908a47-0645-47b0-a479-97a3ca0fba72)
-
 # Risk Assessment: Analysis for best Aicraft Acquisition.
 ## Introduction
 For this analysis, we will use the dataset  **"Aviation Accident Database & Synopses, up to 2023"** from Kaggle, provided by the National Transportation Safety Board (NTSB). This dataset contains comprehensive information about aviation incidents.
