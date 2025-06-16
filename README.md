@@ -64,11 +64,22 @@ The head of the new aviation division may need to reconsider or conduct further 
 
 However, since the dataset is not up to date,it's not safe to assume that it is still the case for years after 2022.
 
-Additional analysis should be done, as significant changes in aviation trends may occur in the years after 2022.
 
+Additional analysis should be done, as significant changes in aviation trends may occur in the years after 2022.
+![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/716c41e68c071d4c26e72214e3741ec74fe0e1bf/images/image3.png)
 
 Only by comparing accident rates  instead of frequency can we determine which aircraft make could be considered the most reliable.
 ###For which flight purposes have accidents been most frequent?
+#### Analysis:
+N.B: This graph does not show which purpose of flight is most likely to cause an accident. It only presents accident frequency by purpose, not accident rates.
+
+For example, personal flights may have the highest accident count simply because they account for more aircraft operations overall.
+
+
+The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
+### For which flight phases have accidents been most frequent?
+![image alt]()
+ 
 
 
 
