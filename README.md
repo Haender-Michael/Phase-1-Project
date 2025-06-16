@@ -27,9 +27,9 @@ For the purpose of this analysis we will take the following steps:
 
 ### **Data Cleaning: Ensuring Accurate and Reliable Analysis**  
 In this section, we focus on refining the dataset to maintain precision and consistency:  
-- **DataFrame Duplication** – Creating a structured copy for controlled modifications.  
+- **DataFrame Duplication** – Creating a structured copy for controlled modifications.All modifications will be done in the copy not in the original DataFrame.  
 - **Column Filtering** – Removing irrelevant fields to streamline analysis.  
-- **Data Type Optimization** – Standardizing entry formats and defining an index for efficient data processing.  
+- **Data Type Optimization** – ensures consistency in how information is stored, improving efficiency in processing and analysis. By standardizing data formats, we reduce errors and streamline operations, making insights more reliable.
 - **Handling Missing Values** – Filling incomplete records to preserve dataset integrity.  
 
 These steps ensure a **clean, well-structured dataset**, allowing for accurate aviation risk assessment and meaningful insights.
@@ -89,7 +89,7 @@ For example, personal flights may have the highest accident count simply because
 The frequency of Aircraft accident for personal purpose of flight may prompt the head of the new aviation division to take specific measures of safety regarding the personal or other very recurrent flight purposes, but it should not be assumed that higher frequency directly correlates with a higher accident rate.
 ### For which flight phases have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/347e465630da0f06d9dd6c47ad1fcfe455520fd2/images/image4.png)
-result: there has been the most accident during the landing phase.
+Result: there has been the most accident during the landing phase.
 ### For which weather condition have accidents been most frequent?
 ![image alt](https://github.com/Haender-Michael/Phase-1-Project/blob/626dff4e3dcbecb4af65eee2ea88233d3cc6311e/images/image5.png)
 
