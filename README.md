@@ -22,3 +22,25 @@ For the purpose of this analysis we will take the following steps:
 - Data Analysis
 - Recommendations
 - Summary
+## Data Understanding:
+This section ensures that the data is properly structured and prepared for analysis, laying a solid foundation for meaningful insights. It sets the framework for the upcoming exploration.
+Below are key questions that the new aviation division may seek to answer. They will be addressed in the notebook.
+- Which aircraft makes have suffered the fewest and the most accidents?
+- How has accident frequency evolved over the years for the country with the highest number of accidents?
+- For which flight purposes have accidents been most frequent?
+- For which flight phases have accidents been most frequent?
+- For which Weather conditions have accidents been most frequent?
+- How resistant are certain aircraft to accidents for Top Manufacturers ?
+- How well are passengers protected in the event of an aircraft crash For top Aircraft Manufacturers?
+
+## Data Analysis
+In this part: 
+- Visualization 
+- Correlational Analysis 
+- Pattern Recognition 
+- Trend Identification 
+- Insights and Findings 
+- risk assessment
+### Which aircraft makes have suffered the fewest and the most accidents?
+To address this question a bar chart of the top 5 Aircraft Makes that have suffered the most accidents and the 5 that have suffered the fewest will be provided.
+![image alt](https://github.com/user-attachments/assets/fc908a47-0645-47b0-a479-97a3ca0fba72)
