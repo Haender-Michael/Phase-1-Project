@@ -16,12 +16,23 @@ Our goal is to analyze accident patterns, aircraft reliability, evolution of acc
 the dataset also contains other information, that are less relevant to the analysis.
 ##### N.B: the dataset is not up to date. Any analysis conducted will only be representative of the approximate year range from 1982 to 2023.
 ## Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA) is the foundation for data-driven decision-making. It involves examining, cleaning, and visualizing data to uncover patterns, trends, and insights.
+
 For the purpose of this analysis we will take the following steps:
 - Data cleaning
 - Data Understanding
 - Data Analysis
 - Recommendations
 - Summary
+### Data cleaning.
+In this part we will:
+- Create a copy of the DataFrame.
+- drop columns.
+- modify data type in entries and set Index.
+- fill rows with missing values.
+
+these steps will ensure that everything run smoothly later during our Analysis.
+Some other data clearing process will also be done later.
 ## Data Understanding:
 This section ensures that the data is properly structured and prepared for analysis, laying a solid foundation for meaningful insights. It sets the framework for the upcoming exploration.
 Below are key questions that the new aviation division may seek to answer. They will be addressed in the notebook.
