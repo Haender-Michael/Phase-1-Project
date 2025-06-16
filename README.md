@@ -141,6 +141,10 @@ Most accidents happen during favorable weather conditions. Regardless, the head 
 Finally Airbus a330-243 and boeing 737-800 are strongly recommended as they are from top manufacturerers. Additionally, among the Aircraft made by top manufacturers, they  have the lowest destroyed rate,and the lowest amount of injuries, making them  very reliable Aircrafts.
 
 NB :The dataset is not up to date. Analysis of recent years is recommended. For this purpose and more, contact information of the Analyst who worked on this porject is provided.
+### Interactive dashbord 
+An interactive dashboard is a decision-making tool that provides stakeholders with clear, actionable insights through dynamic visualizations. It allows  users to filter, explore, and compare key metrics, the dashboard simplifies complex data into an accessible format, enabling informed strategic discussions. 
+link to this project dashbord: 
+#  **
 ## Contact Information
 - First Name: Haender Michael
 
